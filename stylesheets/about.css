@@ -10679,6 +10679,10 @@ nav .nav-item .nav-link:hover {
   color: #587975;
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
   font-family: "Roboto Slab", serif;
   background-color: #e7ddd0;

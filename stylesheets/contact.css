@@ -10679,6 +10679,10 @@ nav .nav-item .nav-link:hover {
   color: #587975;
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
   font-family: "Roboto Slab", serif;
   background-color: #e7ddd0;
@@ -10691,6 +10695,23 @@ body {
     max-width: 70%;
     margin-top: 5rem;
   }
+}
+
+.form-button {
+  background-color: #384d4a;
+  border-color: #384d4a;
+}
+.form-button:hover {
+  background-color: #384d4a8f;
+  border-color: #384d4a;
+}
+.form-button:focus {
+  background-color: #384d4a8f;
+  border-color: #384d4a;
+}
+.form-button:active {
+  background-color: #384d4a8f;
+  border-color: #384d4a;
 }
 
 /*# sourceMappingURL=contact.css.map */
