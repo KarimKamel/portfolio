@@ -10766,7 +10766,7 @@ body {
 }
 .album .project-thumbnail {
   height: 40vh;
-  object-fit: fill;
+  object-fit: contain;
 }
 
 /*# sourceMappingURL=projects.css.map */
